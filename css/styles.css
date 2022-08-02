@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://i.etsystatic.com/6083130/r/il/e7b7b5/3516031474/il_1588xN.3516031474_bk74.jpg )
+}
+.card {
+   background-color:beige;
+   border-style:dotted;
+   text-align:center;
+   border-radius:10px;
+}
+
+
+h3 {
+    background-color: beige;
+    border-radius: 10px;
+    border-style:dotted;
+    text-align:center;
+    font-size:30px;
+}
+
+p {
+    text-align: center;
+    font-style: bold;
+    font-size:25px;
+}
+ .picture {
+    text-align:center;
+    border-color:black;
+ }
+
+
+
+
+  
+
+
+
